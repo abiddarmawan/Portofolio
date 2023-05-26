@@ -687,6 +687,19 @@ video {
   margin-top: 1.25rem;
 }
 
+.ml-10 {
+  margin-left: 2.5rem;
+}
+
+.ms-5 {
+  -webkit-margin-start: 1.25rem;
+          margin-inline-start: 1.25rem;
+}
+
+.ml-1 {
+  margin-left: 0.25rem;
+}
+
 .block {
   display: block;
 }
@@ -1008,7 +1021,7 @@ video {
 
 .text-orange {
   --tw-text-opacity: 1;
-  color: rgb(251 146 60 / var(--tw-text-opacity));
+  color: rgb(249 115 22 / var(--tw-text-opacity));
 }
 
 .text-secondary {
